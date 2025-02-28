@@ -1,5 +1,5 @@
 #body{
-    background-image: url("../Assets/time2.jpg");
+    background-image: url("./time2.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     position: absolute;
