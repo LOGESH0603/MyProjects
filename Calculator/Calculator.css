@@ -1,0 +1,49 @@
+#main{
+    border: 2px solid whitesmoke;
+    border-radius: 5%;
+    height: 200px;
+    width: 400px;
+    background-color: darkcyan;
+    margin-left: 80vh;
+    margin-top: 30vh;
+    position: absolute;
+}
+
+#result{
+    position: relative;
+    top: 250px;
+    left: 500px;
+    display: none;
+}
+
+#h1con{
+    color: black;
+}
+#h1res{
+    color: black;
+}
+section{
+   margin-left: 40px; 
+}
+
+button{
+    margin-left: 40px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+button{
+    height: 4vh;
+    background-color: beige;
+}
+a{
+    text-decoration: none;
+}
+
+body{
+    background-image: url("./Calculator.jpg");
+    background-size: cover;
+}

@@ -1,0 +1,45 @@
+#body{
+    background-image: url("./count.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    /* display: grid;
+    grid-template-rows: 800px;
+    justify-content: center; */
+}
+
+#main{
+    display: grid;
+    grid-template-rows: 700px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#content{
+    box-shadow: 0px 0px 20px 20px rgb(56, 156, 179);
+    border-radius: 5%;
+    height: 18vh;
+    width: 150vh;
+}
+
+#head{
+    display: inline-block;
+    color: white;
+}
+
+button{
+    height: 30px;
+    width: 50px;
+}
+
+#pause{
+    display: none;
+    color:  white;
+    font-size: xx-large;
+}
+

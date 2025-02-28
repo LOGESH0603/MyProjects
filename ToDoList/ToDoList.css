@@ -1,0 +1,42 @@
+button{
+    margin-top: 16px;
+    height: 3vh;
+    width: 10vh;
+}
+
+#box{
+    margin-top: 18px;
+    height: 2vh;
+    width: 2vh;
+}
+
+#list{
+    color: white;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 1px solid rgb(93, 37, 152);
+    box-shadow: 10px 10px 40px 40px rgb(93, 37, 152);
+    height: 86.5vh;
+    width: 350px;
+}
+
+#body{
+    background-image: url("./todolist.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+} 
